@@ -1,0 +1,93 @@
+#encabezado{
+    background-color: #6AD2F3;
+    text-align: center;
+    color: white;
+    height: 78px;
+    width: 102%;
+    margin-top: -8px;
+    font-size: 64px;
+    margin-left: -8px;
+}
+
+
+.c1 {
+	text-align: center;
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    height: 217px;
+    width: 300px;
+    margin-top: 19px;
+    font-size: 16px;
+    margin-left: 25px;
+}
+.p1{
+	font-size: 16px;
+    margin-top: -161px;
+    margin-left: 48px;
+
+}
+
+.p2 {
+	font-size: 16px;
+    margin-top: 6px;
+    margin-left: 48px;
+
+}
+.p3 {
+	font-size: 16px;
+    margin-top: 10px;
+    margin-left: 48px;
+    color: blue;
+}
+
+
+br {
+	
+    width: 264px;
+    margin-top: -85px;
+    margin-left: 606px;
+}
+
+.text{
+	height: 216px;
+    width: 308px;
+    margin-top: -159px;
+    margin-left: 477px;
+}
+#btn {
+	 background-color: #6CD2F5 ;
+     border: 0px;
+    cursor: pointer;
+    margin: 0em 36em;
+    width: 130px;
+    height: 30px;
+    color: #FFF
+}
+
+#btn:hover {
+    background-color: #00AAFF ;
+    margin-top: -159px;
+    margin-left: 477px;
+}
+/*comentario*/
+#comm  {
+  	 border-radius: 0.4em;
+	 width: 38em;
+	 margin: 0 0 0px 343px;
+	 color: #0e0e0e;
+	 text-align: center;
+	 margin-bottom: 0em;
+}
+
+#comm span {
+    margin-left: 1em;
+}
+
+#comm div {
+    padding: 1em 0.5em;
+    margin-bottom: 2em;
+    outline: 0.1em solid #E5E3F2 ;
+    background-color: #FFF;
+}
+
